@@ -1,6 +1,11 @@
 # native-react-tic-tac-toe
 # SET UP
+This README will guide you in setting up your environment to write React Native code.
+Tutorial for this specific project is here: //https://medium.com/@davidguandev/building-a-tic-tac-toe-in-react-native-2a3c44e697f2
+
+ReadMe notes taken from here:
 https://hackernoon.com/getting-started-with-react-native-in-2019-build-your-first-app-a41ebc0617e2
+
 - Use a Mac, too much hassle on a PC
 - Install Nodejs
 	- If you have an older version of Node/npm try `n`.
